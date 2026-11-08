@@ -1,4 +1,5 @@
 [app]
+p4a.branch = develop
 
 title = My Calculator
 package.name = mycalculator
